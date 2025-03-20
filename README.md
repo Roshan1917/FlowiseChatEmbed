@@ -214,7 +214,7 @@ You can also customize chatbot with different configuration
 
 The AI Studio Embed Proxy Server enhances the security of your chatbot implementation by acting as a protective intermediary layer. This server eliminates the need to expose sensitive AI Studio instance details in your frontend code and provides several key security benefits:
 
-![Proxy Server](https://github.com/Roshan1917/FlowiseChatEmbed/tree/main/images/proxyserver.png?raw=true)
+![Proxy Server](https://raw.githubusercontent.com/Roshan1917/FlowiseChatEmbed/tree/main/images/proxyserver.png)
 
 - **Enhanced Security**: Conceals your AI Studio API host and chatflow IDs from client-side exposure
 - **Access Control**: Implements strict domain-based restrictions for chatbot embedding
